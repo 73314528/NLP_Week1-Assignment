@@ -1,0 +1,49 @@
+3.1 
+  First Name : Lokesh
+  Last Name  : Gurram
+  Email id   : gurram53@students.rowan.edu
+
+3.2
+  Model	     : Lenovo G500S
+  Processoer : Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz   2.60 GHz
+  Ram 	     : 8.00 GB (7.87 GB usable)
+  System type: 64-bit operating system, x64-based processor
+
+3.3
+  OS	    :     Windows 10 Home
+  Edition   :     Windows 10 Home Single Language
+  Version   :     21H1
+  Installed on	  ‎30-‎03-‎2021
+  OS build  :	  19043.1165
+  Experience:     Windows Feature Experience Pack 120.2212.3530.0
+
+
+3.4
+  Git
+  Version  :  2.33.0.2
+  File size:  47.8 MB
+  Date     :  08/16/21
+
+  Python
+  Version   : 3.7.12		
+  File size : 25.7 MB
+  Date      : 09/04/21 
+
+  PyCharm
+  Version   : PyCharm Community
+  File size : 372 MB
+  Date      : 08/12/21
+
+3.5 Environmental variable settings
+
+ Git
+ C:\Program Files\Git\cmd
+
+ Python
+ C:\Users\Lokesh\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.7
+
+ PYcharm
+ C:\Program Files\JetBrains\PyCharm Community Edition 2021.2.1\bin
+
+ My GitHub Repo
+https://github.com/73314528/NLP_Week1-Assignment
